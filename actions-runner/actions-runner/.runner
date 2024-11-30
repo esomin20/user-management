@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 3,
+  "agentName": "user-management",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus26.actions.githubusercontent.com/cZ35ICeKz9FFMxcOlQOTNkldEgY7MJDXEnqoCGvIi9bPb5FnJA/",
+  "gitHubUrl": "https://github.com/esomin20/user-management",
+  "workFolder": "user-management"
+}
